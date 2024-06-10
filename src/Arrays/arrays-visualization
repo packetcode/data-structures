@@ -1,0 +1,11 @@
+Arrays
+├── Static Arrays
+│   ├── 1D Array (Fixed size, linear)
+│   ├── 2D Array (Fixed size, matrix)
+│   ├── 3D Array (Fixed size, cube)
+│   └── Multi-dimensional Arrays (Fixed size, hypercube)
+├── Dynamic Arrays
+    ├── 1D Array (Resizable, linear)
+    ├── 2D Array (Resizable, matrix)
+    ├── 3D Array (Resizable, cube)
+    └── Multi-dimensional Arrays (Resizable, hypercube)
