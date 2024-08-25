@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3171d457-e9d9-42c7-875c-112b5b9fb074" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraysEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/arrays-visualization" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +43,17 @@
     "Application.ArrayListEx.executor": "Run",
     "Application.Arrays.executor": "Run",
     "Application.ArraysEx.executor": "Run",
+    "Application.HashMapEx.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraysEx">
+  <component name="RunManager" selected="Application.HashMapEx">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ArrayListEx" />
       <module name="data-structures" />
@@ -88,8 +87,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashMapEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapEx" />
+      <module name="data-structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapEx" />
         <item itemvalue="Application.ArraysEx" />
         <item itemvalue="Application.ArrayListEx" />
         <item itemvalue="Application.Arrays" />
